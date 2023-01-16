@@ -6,4 +6,9 @@
 
 # Task 2 
 
-cat file1.txt file2.txt | tee unsorted.txt | sort -r > reversed.txt
+1. cat file1.txt file2.txt | tee unsorted.txt | sort -r > reversed.txt
+
+
+How long it Took You to Complete The Assignment in Minutes (estimate)
+
+- 8 minutes
