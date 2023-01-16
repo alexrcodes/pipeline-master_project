@@ -1,0 +1,9 @@
+# Task 1 
+
+1. ls /etc > file1.txt
+2. ls /run > file2.txt
+
+
+# Task 2 
+
+cat file1.txt file2.txt | tee unsorted.txt | sort -r > reversed.txt
